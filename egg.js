@@ -49,7 +49,7 @@
 	 *     6. Remove original unscrambled url from your code (don't leave yolk("//example.com"); in there!)
 	 *
 	 *  Yes, it dices, it chops, it's for URLs but it can be used for regular strings as well.
-	 *  Just append // to the string and scramble it. Then, after de-scrambling it for use remove the //
+	 *  Just pre-pend // to the string and scramble it. Then, after de-scrambling it for use remove the //
 	 *  yolk("//all your base are belong to us")
 	 *  returns
 	 *
